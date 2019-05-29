@@ -8,7 +8,7 @@ Prerequisite:
 
 3)One Should know about Sendgrid Email app and here is the official link for that "https://app.sendgrid.com/"
 
-Project Describition :
+Project Description :
 
 1) Oauth2_Project : Oauth2_Project is my Django Project.
 
@@ -17,6 +17,8 @@ Project Describition :
 3) Send : Send is my virtualenv.
 
 4) req.txt : Python Packages required for this stack.
+
+5) db.sqlite3 : Postgres Database.
 
 
 

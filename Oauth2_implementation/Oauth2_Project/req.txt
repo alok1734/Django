@@ -1,0 +1,13 @@
+certifi==2019.3.9
+chardet==3.0.4
+Django==1.11.20
+django-oauth-toolkit==1.0.0
+djangorestframework==3.6.3
+idna==2.8
+oauthlib==3.0.1
+python-http-client==3.1.0
+python-oauth2==1.1.0
+pytz==2019.1
+requests==2.22.0
+sendgrid==6.0.5
+urllib3==1.25.3

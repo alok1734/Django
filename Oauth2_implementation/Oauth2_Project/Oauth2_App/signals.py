@@ -10,7 +10,7 @@ def send_emails(sender, instance, **kwargs):
         subject= "You are registered with Alok's portal",
         html_content='<strong>welcome to Alok World </strong>')
     try:
-        sg = SendGridAPIClient('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')
+        sg = SendGridAPIClient('add your sendgrid key generaterd by you from sendgrid console')
         response = sg.send(message)
         print(response.status_code)
         print(response.body)
